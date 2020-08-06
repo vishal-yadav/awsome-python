@@ -5,7 +5,7 @@
 import pytest
 
 
-from awsome_python import awsome_python
+# from awsome_python import awsome_python
 
 
 @pytest.fixture
